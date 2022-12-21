@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Tests", "Selenium.Tests\Selenium.Tests.csproj", "{77E9FB27-1DFC-4569-81B4-13B498B4C384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playwright.Tests", "Playwright.Tests\Playwright.Tests.csproj", "{AF1C80EC-32ED-40A5-B969-9F984EE8873B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E9FB27-1DFC-4569-81B4-13B498B4C384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E9FB27-1DFC-4569-81B4-13B498B4C384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E9FB27-1DFC-4569-81B4-13B498B4C384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E9FB27-1DFC-4569-81B4-13B498B4C384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF1C80EC-32ED-40A5-B969-9F984EE8873B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1C80EC-32ED-40A5-B969-9F984EE8873B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1C80EC-32ED-40A5-B969-9F984EE8873B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1C80EC-32ED-40A5-B969-9F984EE8873B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E508AA6D-9519-49B8-AF39-1DFAB9EA78A8}
+	EndGlobalSection
+EndGlobal
